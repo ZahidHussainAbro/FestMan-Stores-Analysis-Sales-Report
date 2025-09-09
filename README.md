@@ -1,6 +1,9 @@
 # FestMan-Stores-Analysis-Sales-Report
 Financial Analysis Sales Report
-![Screenshot 2025-01-14 142943](https://github.com/user-attachments/assets/4d7be931-0432-45cc-bb50-5b2dbce454b1)
+Dashboard-1
+<img width="1345" height="743" alt="Screenshot 2025-08-30 140442" src="https://github.com/user-attachments/assets/d52468c3-9663-426a-8f77-b50ac1190179" />
+Dashboard-2
+<img width="1340" height="746" alt="Screenshot 2025-08-30 140514" src="https://github.com/user-attachments/assets/5ac7d99d-bc0c-416c-8221-765b2abf672a" />
 
 𝗙𝗲𝘀𝘁𝗠𝗮𝗻 𝗦𝘁𝗼𝗿𝗲𝘀 𝗔𝗻𝗻𝘂𝗮𝗹 𝗼𝗳 𝟮-𝘆𝗲𝗮𝗿 𝗿𝗲𝗽𝗼𝗿𝘁.
 𝗙𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝗦𝗮𝗹𝗲𝘀 𝗥𝗲𝗽𝗼𝗿𝘁𝘀 𝗮𝗻𝗱 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱𝘀:
